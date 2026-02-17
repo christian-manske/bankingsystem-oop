@@ -1,0 +1,1 @@
+This project is a rebuilt version of an earlier study. The original code was lost, so the system was redesigned from scratch with a stronger focus on domain modeling and clean architecture.
